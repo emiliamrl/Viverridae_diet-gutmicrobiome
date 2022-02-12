@@ -1,0 +1,77 @@
+scp -r /Users/emilia/Dropbox/Emilia_msc/Msc_2017-18/Data_Analysis/Diet/Info_filer/PSinfo_Coleop.txt/ emilia@fend02.hpc.ku.dk:/groups/hologenomics/emilia/data/Seqdata/Coleop/
+
+scp -r /Users/emilia/Dropbox/Emilia_msc/Msc_2017-18/Data_Analysis/Diet/Info_filer/col16s_primers.txt/ emilia@fend02.hpc.ku.dk:/groups/hologenomics/emilia/data/Seqdata/Coleop/
+
+scp -r /Users/emilia/Dropbox/Emilia_msc/Msc_2017-18/Data_Analysis/Diet/Info_filer/col16s_tags.txt/ emilia@fend02.hpc.ku.dk:/groups/hologenomics/emilia/data/Seqdata/Coleop/
+
+mkdir pool1
+
+mkdir pool2
+
+ln -s /groups/hologenomics/emilia/data/Seqdata/fastqs/KRB_3TUQ_Coleop_1* .
+
+ln -s /groups/hologenomics/emilia/data/Seqdata/fastqs/KRB_3TUQ_Coleop_2* .
+
+module load AdapterRemoval
+
+#pool 1 
+	xsbatch -c 1 -- AdapterRemoval --file1 KRB_3TUQ_Coleop_1_S4_L001_R1_001.fastq.gz --file2 KRB_3TUQ_Coleop_1_S4_L001_R2_001.fastq.gz --mm 0.05 --minlength 100 --shift 5 --basename /groups/hologenomics/emilia/data/Seqdata/Coleop/pool1/pool1_merged --trimns --trimqualities --qualitybase 33 --minquality 28 --minalignmentlength 50 --collapse
+	
+	nano slurm-10649845.out
+	
+	cat pool1_merged.collapsed pool1_merged.collapsed.truncated > pool1_merged.fastq
+	
+	xsbatch -c 1 -- python /groups/hologenomics/software/DAMe/v0.9/bin/sort.py -fq /groups/hologenomics/emilia/data/Seqdata/Coleop/pool1/pool1_merged.fastq -p /groups/hologenomics/emilia/data/Seqdata/Coleop/col16s_primers.txt -t /groups/hologenomics/emilia/data/Seqdata/Coleop/col16s_tags.txt
+
+	nano slurm-10649851.out
+
+	xsbatch -c 1 -- python /groups/hologenomics/software/DAMe/v0.9/bin/splitSummaryByPSInfo.py -p /groups/hologenomics/emilia/data/Seqdata/Coleop/PSinfo_Coleop.txt -l 1 -s /groups/hologenomics/emilia/data/Seqdata/Coleop/pool1/SummaryCounts.txt -o /groups/hologenomics/emilia/data/Seqdata/Coleop/pool1/SummaryCounts_split_pool1.txt
+
+	nano slurm-10649854.out
+
+#pool 2
+	xsbatch -c 1 -- AdapterRemoval --file1 KRB_3TUQ_Coleop_2_S3_L001_R1_001.fastq.gz --file2 KRB_3TUQ_Coleop_2_S3_L001_R2_001.fastq.gz --mm 0.05 --minlength 100 --shift 5 --basename /groups/hologenomics/emilia/data/Seqdata/Coleop/pool2/pool2_merged --trimns --trimqualities --qualitybase 33 --minquality 28 --minalignmentlength 50 --collapse
+	
+	nano slurm-10649869.out
+
+	cat pool2_merged.collapsed pool2_merged.collapsed.truncated > pool2_merged.fastq
+	
+	xsbatch -c 1 -- python /groups/hologenomics/software/DAMe/v0.9/bin/sort.py -fq /groups/hologenomics/emilia/data/Seqdata/Coleop/pool2/pool2_merged.fastq -p /groups/hologenomics/emilia/data/Seqdata/Coleop/col16s_primers.txt -t /groups/hologenomics/emilia/data/Seqdata/Coleop/col16s_tags.txt
+
+	nano slurm-10649871.out
+	
+	xsbatch -c 1 -- python /groups/hologenomics/software/DAMe/v0.9/bin/splitSummaryByPSInfo.py -p /groups/hologenomics/emilia/data/Seqdata/Coleop/PSinfo_Coleop.txt -l 1 -s /groups/hologenomics/emilia/data/Seqdata/Coleop/pool2/SummaryCounts.txt -o /groups/hologenomics/emilia/data/Seqdata/Coleop/pool2/SummaryCounts_split_pool1.txt
+
+	nano slurm-10649884.out
+
+module load python/v2.7.12
+module load DAMe
+
+xsbatch -c 1 -- python /groups/hologenomics/software/DAMe/v0.9/bin/filter.py -psInfo /groups/hologenomics/emilia/data/Seqdata/Coleop/PSinfo_Coleop.txt -x 3 -y 2 -p 2 -t 2 -l 90
+
+nano slurm-10649889.out
+
+grep B* Comparisons_2outOf3PCRs.countsThreshold2.txt
+
+xsbatch -c 1 -- python /groups/hologenomics/software/DAMe/v0.9/bin/convertToUSearch.py -i FilteredReads.fna
+
+nano slurm-10649892.out
+
+module load sumaclust/v1.0.20
+
+xsbatch -c 1 -- sumaclust -e FilteredReads.forsumaclust.fna -F OTUs_97_sumaclust.fna
+
+nano slurm-10649893.out
+
+xsbatch -c 1 -- python /groups/hologenomics/software/DAMe/v0.9/bin/tabulateSumaclust.py -i OTUs_97_sumaclust.fna -s 50000 -o table_Coleop_97.txt -blast
+
+nano slurm-10649896.out
+
+module load blast+/v2.6.0
+
+xsbatch -c 1 --mem-per-cpu 35000 -- blastn -query table_Coleop_97.txt.blast.txt -out blast_Coleop_97.output.txt -db nt
+
+nano slurm-10650269.out
+
+	scp emilia@fend02.hpc.ku.dk:/groups/hologenomics/emilia/data/Seqdata/Coleop/blast_Coleop_97.output.txt .
+	scp emilia@fend02.hpc.ku.dk:/groups/hologenomics/emilia/data/Seqdata/Coleop/table_Coleop_97.txt .
