@@ -1,0 +1,974 @@
+﻿OTU;Kingdom;Class;Order;Family;Genus;Species
+mam16s10;Animalia;Mammalia;Rodentia;Muridae;Rhabdomys;Rhabdomys pumilio
+mam16s11;Animalia;Mammalia;Carnivora;NA;NA;NA
+mam16s12;Animalia;Mammalia;Carnivora;NA;NA;NA
+mam16s13;Animalia;NA;NA;NA;NA;NA
+mam16s14;Animalia;Aves;Charadriiformes;Alcidae;Alca;Alca torda
+mam16s15;Animalia;Mammalia;Carnivora;Phocidae;Phoca;NA
+mam16s16;Animalia;Mammalia;Rodentia;Muridae;Mus;Mus caroli
+mam16s17;Animalia;Mammalia;Primates;Cercopithecidae;Papio;NA
+mam16s18;Animalia;Mammalia;Hyracoidea;Procaviidae;Procavia;Procavia capensis
+mam16s19;Animalia;Mammalia;Hyracoidea;Procaviidae;Procavia;Procavia capensis
+mam16s2;Animalia;Mammalia;Carnivora;Viverridae;NA;NA
+mam16s20;Animalia;Mammalia;Rodentia;Muridae;Aethomys;NA
+mam16s21;Animalia;Mammalia;Macroscelidea;Macroscelididae;Elephantulus;NA
+mam16s22;Animalia;Mammalia;Primates;Cercopithecidae;Cercopithecus;NA
+mam16s23;Animalia;Mammalia;NA;NA;NA;NA
+mam16s24;Animalia;Mammalia;Artiodactyla;Bovidae;Aepyceros;Aepyceros melampus
+mam16s25;Animalia;Mammalia;Carnivora;Herpestidae;NA;NA
+mam16s26;Animalia;Mammalia;Rodentia;Muridae;Mastomys;NA
+mam16s27;Animalia;Amphibia;Anura;Bufonidae;Sclerophrys;NA
+mam16s28;Animalia;Mammalia;Rodentia;Muridae;Otomys;Otomys irroratus
+mam16s29;Animalia;Mammalia;Carnivora;Felidae;NA;NA
+mam16s3;Animalia;Mammalia;Carnivora;Ursidae;Ursus;NA
+mam16s30;Animalia;Mammalia;Carnivora;Herpestidae;Herpestes;Herpestes ichneumon
+mam16s31;Animalia;Mammalia;Artiodactyla;Cervidae;Alces;Alces alces
+mam16s32;Animalia;Mammalia;Artiodactyla;Bovidae;Cephalophus;NA
+mam16s33;Animalia;Amphibia;Anura;Ptychadenidae;Ptychadena;Ptychadena aequiplicata
+mam16s34;Animalia;Amphibia;Anura;Dendrobatidae;Allobates;NA
+mam16s35;Animalia;Mammalia;Primates;Galagidae;Otolemur;Otolemur crassicaudatus
+mam16s36;Animalia;Mammalia;Eulipotyphla;Soricidae;Suncus;NA
+mam16s37;Animalia;Mammalia;Carnivora;Canidae;Canis;Canis lupus
+mam16s38;Animalia;Amphibia;Anura;Brevicipitidae;Breviceps;NA
+mam16s39;Animalia;Mammalia;Primates;Hominidae;NA;NA
+mam16s4;Animalia;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+mam16s40;Animalia;Mammalia;Rodentia;Muridae;Thallomys;Thallomys paedulcus
+mam16s41;Animalia;NA;NA;NA;NA;NA
+mam16s42;Animalia;Mammalia;Rodentia;Muridae;Mus;Mus musculus
+mam16s43;Animalia;Mammalia;Artiodactyla;Bovidae;Kobus;NA
+mam16s44;Animalia;NA;NA;NA;NA;NA
+mam16s45;Animalia;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+mam16s5;Animalia;Mammalia;Carnivora;NA;NA;NA
+mam16s6;Animalia;Mammalia;Rodentia;Muridae;NA;NA
+mam16s7;Animalia;Mammalia;Carnivora;NA;NA;NA
+mam16s8;Animalia;Mammalia;Eulipotyphla;Soricidae;Crocidura;NA
+mam16s9;Animalia;Mammalia;Eulipotyphla;Soricidae;Myosorex;NA
+coleop1;Animalia;Insecta;Blattodea;Termitidae;Macrotermes;NA
+coleop10;Animalia;Insecta;Blattodea;Termitidae;Macrotermes;NA
+coleop11;Animalia;Insecta;NA;NA;NA;NA
+coleop12;Animalia;Insecta;Orthoptera;Acrididae;NA;NA
+coleop13;Animalia;Diplopoda;Spirostreptida;Harpagophoridae;NA;NA
+coleop14;Animalia;Insecta;Orthoptera;Gryllidae;Podoscirtus;Podoscirtus sp. MCJ-2002
+coleop15;Animalia;Insecta;Lepidoptera;NA;NA;NA
+coleop16;Animalia;Insecta;Coleoptera;NA;NA;NA
+coleop17;Animalia;Insecta;Orthoptera;Gryllidae;NA;NA
+coleop18;Animalia;Diplopoda;Spirostreptida;Spirostreptidae;Bicoxidens;Bicoxidens flavicollis
+coleop19;Animalia;Insecta;Blattodea;Termitidae;Microtermes;Microtermes sp. B TB-2017
+coleop2;Animalia;Insecta;Orthoptera;Acrididae;Schistocerca;NA
+coleop20;Animalia;NA;NA;NA;NA;NA
+coleop21;Animalia;Insecta;Lepidoptera;Zygaenidae;Zygaena;NA
+coleop22;Animalia;Insecta;Orthoptera;Anostostomatidae;Libanasidus;Libanasidus vittatus
+coleop23;Animalia;Diplopoda;Spirostreptida;NA;NA;NA
+coleop24;Animalia;Insecta;Orthoptera;Gryllidae;NA;NA
+coleop25;Animalia;Insecta;Diptera;NA;NA;NA
+coleop26;Animalia;Mammalia;Carnivora;NA;NA;NA
+coleop27;Animalia;Insecta;Diptera;NA;NA;NA
+coleop28;Animalia;Insecta;Lepidoptera;NA;NA;NA
+coleop29;Animalia;Insecta;Lepidoptera;NA;NA;NA
+coleop3;Animalia;Diplopoda;NA;NA;NA;NA
+coleop30;Animalia;Insecta;Trichoptera;Helicophidae;Austrocentrus;Austrocentrus griseus
+coleop31;Animalia;Insecta;Blattodea;NA;NA;NA
+coleop32;Animalia;Insecta;Orthoptera;Gryllidae;NA;NA
+coleop33;Animalia;NA;NA;NA;NA;NA
+coleop34;Animalia;Insecta;NA;NA;NA;NA
+coleop35;Animalia;Insecta;Lepidoptera;NA;NA;NA
+coleop36;Animalia;Insecta;Mantodea;Hymenopodidae;Phyllocrania;Phyllocrania paradoxa
+coleop37;Animalia;Insecta;Orthoptera;NA;NA;NA
+coleop38;Animalia;Insecta;Coleoptera;NA;NA;NA
+coleop39;Animalia;Insecta;Coleoptera;NA;NA;NA
+coleop4;Animalia;Insecta;Orthoptera;Gryllidae;NA;NA
+coleop40;Animalia;Insecta;Coleoptera;NA;NA;NA
+coleop5;Animalia;Insecta;Orthoptera;Gryllidae;NA;NA
+coleop6;Animalia;Insecta;Orthoptera;Anostostomatidae;Libanasidus;Libanasidus vittatus
+coleop7;Animalia;Insecta;Orthoptera;Gryllidae;NA;NA
+coleop8;Animalia;Diplopoda;Spirostreptida;Spirostreptidae;NA;NA
+coleop9;Animalia;Insecta;Diptera;NA;NA;NA
+trac1;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac10;Plantae;Magnoliopsida;Fabales;Fabaceae;NA;Fabaceae sp. TRK-2015
+trac100;Plantae;Magnoliopsida;Lamiales;Stilbaceae;Nuxia;Nuxia floribunda
+trac101;Plantae;Magnoliopsida;Asterales;Asteraceae;NA;NA
+trac102;Plantae;NA;NA;NA;NA;NA
+trac103;Plantae;Magnoliopsida;Ericales;Ebenaceae;Diospyros;NA
+trac104;Plantae;Magnoliopsida;Lamiales;Acanthaceae;Dicliptera;NA
+trac105;Plantae;Magnoliopsida;Sapindales;Meliaceae;Lepidotrichilia;Lepidotrichilia volkensii
+trac106;Plantae;Magnoliopsida;Myrtales;Myrtaceae;Eucalyptus;NA
+trac107;Plantae;Magnoliopsida;Celastrales;Celastraceae;Catha;Catha edulis
+trac108;Plantae;Magnoliopsida;Poales;Poaceae;Ehrharta;NA
+trac109;Plantae;Magnoliopsida;Malpighiales;Euphorbiaceae;NA;NA
+trac11;Plantae;Magnoliopsida;Celastrales;Celastraceae;NA;NA
+trac110;Plantae;Magnoliopsida;Malpighiales;Euphorbiaceae;NA;NA
+trac111;Plantae;Magnoliopsida;Asterales;Asteraceae;Senecio;NA
+trac112;Plantae;NA;NA;NA;NA;NA
+trac113;Plantae;Magnoliopsida;Fabales;Fabaceae;Indigofera;NA
+trac114;Plantae;Magnoliopsida;Saxifragales;Crassulaceae;Crassula;NA
+trac115;Plantae;Magnoliopsida;Asterales;Asteraceae;Bidens;NA
+trac116;Plantae;NA;NA;NA;NA;NA
+trac117;Plantae;NA;NA;NA;NA;NA
+trac118;Plantae;Magnoliopsida;Malpighiales;Euphorbiaceae;Euphorbia;Euphorbia hirta
+trac119;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus racemosa
+trac12;Plantae;Magnoliopsida;Caryophyllales;Amaranthaceae;Achyranthes;NA
+trac120;Plantae;Magnoliopsida;Celastrales;Celastraceae;Maytenus;Maytenus undata
+trac121;Plantae;Magnoliopsida;NA;NA;NA;NA
+trac122;Plantae;Magnoliopsida;Nymphaeales;Nymphaeaceae;Nymphaea;NA
+trac123;Plantae;Magnoliopsida;Sapindales;Anacardiaceae;Mangifera;NA
+trac124;Plantae;Magnoliopsida;Rosales;Ulmaceae;Chaetachme;Chaetachme aristata
+trac125;Plantae;Magnoliopsida;Sapindales;Meliaceae;Trichilia;Trichilia capitata
+trac126;Plantae;Magnoliopsida;Gentianales;Apocynaceae;Cryptolepis;NA
+trac127;Plantae;Magnoliopsida;Malvales;Malvaceae;NA;NA
+trac128;Plantae;Magnoliopsida;Fabales;Fabaceae;Indigofera;NA
+trac129;Plantae;Magnoliopsida;Poales;Poaceae;Enteropogon;NA
+trac13;Plantae;Magnoliopsida;Rosales;Moraceae;Morus;NA
+trac130;Plantae;Magnoliopsida;Malvales;Malvaceae;Hibiscus;Hibiscus sturtii
+trac131;Plantae;Magnoliopsida;Boraginales;Cordiaceae;Cordia;NA
+trac132;Plantae;Magnoliopsida;NA;NA;NA;NA
+trac133;Plantae;NA;Rotaliida;NA;NA;NA
+trac134;Plantae;NA;NA;NA;NA;NA
+trac135;Plantae;Magnoliopsida;NA;NA;NA;NA
+trac136;Plantae;Magnoliopsida;Asterales;Asteraceae;Bidens;NA
+trac137;Plantae;Sordariomycetes;Sordariales;Sordariaceae;Sordaria;Sordaria macrospora
+trac138;Plantae;Magnoliopsida;Myrtales;Myrtaceae;Eugenia;NA
+trac139;Plantae;Magnoliopsida;Oxalidales;Oxalidaceae;Oxalis;NA
+trac14;Plantae;Magnoliopsida;Rosales;Rhamnaceae;Ziziphus;Ziziphus mucronata
+trac140;Plantae;NA;NA;NA;NA;NA
+trac141;Plantae;Magnoliopsida;Solanales;Convolvulaceae;Convolvulus;NA
+trac142;Plantae;Magnoliopsida;Fagales;Fagaceae;Fagus;NA
+trac143;Plantae;NA;NA;NA;NA;NA
+trac144;Plantae;Magnoliopsida;Asparagales;Asparagaceae;Asparagus;NA
+trac145;Plantae;NA;NA;NA;NA;NA
+trac146;Plantae;Magnoliopsida;Rosales;Rhamnaceae;Helinus;Helinus integrifolius
+trac147;Plantae;NA;NA;NA;NA;NA
+trac148;Plantae;Magnoliopsida;Ericales;Ericaceae;NA;NA
+trac149;Plantae;NA;NA;NA;NA;NA
+trac15;Plantae;Magnoliopsida;Malvales;Malvaceae;Malvastrum;Malvastrum coromandelianum
+trac150;Plantae;Magnoliopsida;Asterales;Asteraceae;NA;NA
+trac151;Plantae;Magnoliopsida;Asterales;Asteraceae;Tridax;Tridax procumbens
+trac152;Plantae;Magnoliopsida;Poales;Poaceae;NA;NA
+trac153;Plantae;NA;NA;NA;NA;NA
+trac154;Plantae;Magnoliopsida;Apiales;NA;NA;NA
+trac155;Plantae;Magnoliopsida;NA;NA;NA;NA
+trac156;Plantae;NA;NA;NA;NA;NA
+trac157;Plantae;Magnoliopsida;Gentianales;Apocynaceae;NA;NA
+trac158;Plantae;Magnoliopsida;Fabales;Fabaceae;NA;NA
+trac159;Plantae;NA;NA;NA;NA;NA
+trac16;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac160;Plantae;NA;NA;NA;NA;NA
+trac161;Plantae;NA;NA;NA;NA;NA
+trac162;Plantae;NA;NA;NA;NA;NA
+trac163;Plantae;Magnoliopsida;Rosales;Rhamnaceae;Rhamnella;Rhamnella martinii
+trac164;Plantae;NA;NA;NA;NA;NA
+trac165;Plantae;Magnoliopsida;Fabales;Fabaceae;Senna;NA
+trac166;Plantae;NA;NA;NA;NA;NA
+trac167;Plantae;Magnoliopsida;Malpighiales;Phyllanthaceae;Phyllanthus;NA
+trac168;Plantae;Magnoliopsida;Malvales;Malvaceae;Hibiscus;Hibiscus sturtii
+trac169;Plantae;NA;NA;NA;NA;NA
+trac17;Plantae;Magnoliopsida;NA;NA;NA;NA
+trac170;Plantae;NA;NA;NA;NA;NA
+trac171;Plantae;NA;NA;NA;NA;NA
+trac172;Plantae;Magnoliopsida;Fabales;Fabaceae;Indigofera;Indigofera sanguinea
+trac173;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac174;Plantae;NA;NA;NA;NA;NA
+trac175;Plantae;Magnoliopsida;Myrtales;Combretaceae;Terminalia;NA
+trac176;Plantae;Magnoliopsida;Malpighiales;Phyllanthaceae;Phyllanthus;NA
+trac177;Plantae;Magnoliopsida;Asterales;Asteraceae;NA;NA
+trac178;Plantae;NA;NA;NA;NA;NA
+trac179;Plantae;NA;NA;NA;NA;NA
+trac18;Plantae;Magnoliopsida;Malpighiales;Euphorbiaceae;Acalypha;Acalypha rhomboidea
+trac180;Plantae;Magnoliopsida;Fabales;Fabaceae;Dichrostachys;NA
+trac181;Plantae;NA;NA;NA;NA;NA
+trac182;Plantae;Magnoliopsida;Sapindales;Rutaceae;NA;NA
+trac183;Plantae;NA;NA;NA;NA;NA
+trac184;Plantae;NA;NA;NA;NA;NA
+trac185;Plantae;NA;NA;NA;NA;NA
+trac186;Plantae;Magnoliopsida;Sapindales;Sapindaceae;Lecaniodiscus;Lecaniodiscus fraxinifolius
+trac187;Plantae;NA;NA;NA;NA;NA
+trac188;Plantae;NA;NA;NA;NA;NA
+trac189;Plantae;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus vulgaris
+trac19;Plantae;Magnoliopsida;Fabales;Fabaceae;Mundulea;NA
+trac190;Plantae;NA;NA;NA;NA;NA
+trac191;Plantae;Magnoliopsida;Myrtales;Myrtaceae;Syzygium;NA
+trac192;Plantae;Magnoliopsida;Poales;Cyperaceae;Bulbostylis;NA
+trac193;Plantae;Magnoliopsida;Poales;Poaceae;Chloris;NA
+trac194;Plantae;NA;NA;NA;NA;NA
+trac195;Plantae;Magnoliopsida;Cucurbitales;Cucurbitaceae;NA;NA
+trac196;Plantae;NA;NA;NA;NA;NA
+trac197;Plantae;NA;NA;NA;NA;NA
+trac198;Plantae;NA;NA;NA;NA;NA
+trac199;Plantae;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;NA
+trac2;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac20;Plantae;Magnoliopsida;Sapindales;Sapindaceae;Lecaniodiscus;Lecaniodiscus fraxinifolius
+trac200;Plantae;NA;Rotaliida;NA;Virgulinella;Virgulinella fragilis
+trac201;Plantae;NA;NA;NA;NA;NA
+trac202;Plantae;NA;NA;NA;NA;NA
+trac203;Plantae;NA;NA;NA;NA;NA
+trac204;Plantae;NA;NA;NA;NA;NA
+trac205;Plantae;NA;NA;NA;NA;NA
+trac206;Plantae;Magnoliopsida;Lamiales;Acanthaceae;Ruellia;NA
+trac207;Plantae;NA;NA;NA;NA;NA
+trac208;Plantae;NA;NA;NA;NA;NA
+trac209;Plantae;Magnoliopsida;Sapindales;Sapindaceae;Lecaniodiscus;Lecaniodiscus fraxinifolius
+trac21;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus racemosa
+trac210;Plantae;NA;NA;NA;NA;NA
+trac211;Plantae;NA;NA;NA;NA;NA
+trac212;Plantae;Magnoliopsida;Asterales;Asteraceae;Acmella;NA
+trac213;Plantae;Magnoliopsida;Malvales;Malvaceae;NA;NA
+trac214;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac215;Plantae;NA;NA;NA;NA;NA
+trac216;Plantae;NA;NA;NA;NA;NA
+trac217;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac218;Plantae;Magnoliopsida;Lamiales;Verbenaceae;NA;NA
+trac219;Plantae;NA;NA;NA;NA;NA
+trac22;Plantae;Magnoliopsida;Poales;Cyperaceae;Bulbostylis;NA
+trac220;Plantae;NA;NA;NA;NA;NA
+trac221;Plantae;NA;NA;NA;NA;NA
+trac222;Plantae;NA;NA;NA;NA;bacterium
+trac223;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac224;Plantae;Magnoliopsida;Boraginales;Boraginaceae;Cynoglossum;Cynoglossum lanceolatum
+trac225;Plantae;NA;NA;NA;NA;NA
+trac226;Plantae;Magnoliopsida;Malvales;Malvaceae;NA;NA
+trac227;Plantae;Magnoliopsida;Rosales;Rhamnaceae;Ziziphus;Ziziphus mucronata
+trac228;Plantae;Magnoliopsida;Malpighiales;Euphorbiaceae;Croton;NA
+trac229;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac23;Plantae;Magnoliopsida;Malvales;Malvaceae;Melhania;Melhania ovata
+trac230;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac231;Plantae;Magnoliopsida;NA;NA;NA;NA
+trac232;Plantae;NA;NA;NA;NA;NA
+trac233;Plantae;NA;NA;NA;NA;NA
+trac234;Plantae;Magnoliopsida;Celastrales;Celastraceae;NA;NA
+trac235;Plantae;NA;NA;NA;NA;NA
+trac236;Plantae;NA;NA;NA;NA;NA
+trac237;Plantae;Magnoliopsida;Rosales;Ulmaceae;Chaetachme;Chaetachme aristata
+trac238;Plantae;NA;NA;NA;NA;NA
+trac239;Plantae;Magnoliopsida;NA;NA;NA;NA
+trac24;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac240;Plantae;Magnoliopsida;NA;NA;NA;NA
+trac241;Plantae;Mucoromycetes;Mucorales;Lichtheimiaceae;Lichtheimia;Lichtheimia brasiliensis
+trac242;Plantae;NA;NA;NA;NA;NA
+trac243;Plantae;NA;NA;NA;NA;NA
+trac244;Plantae;NA;NA;NA;NA;NA
+trac245;Plantae;NA;NA;NA;NA;NA
+trac246;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac247;Plantae;Magnoliopsida;Fabales;Fabaceae;NA;NA
+trac248;Plantae;Magnoliopsida;Caryophyllales;Amaranthaceae;Achyranthes;NA
+trac249;Plantae;NA;NA;NA;NA;NA
+trac25;Plantae;Magnoliopsida;Fabales;Fabaceae;Bauhinia;NA
+trac250;Plantae;Magnoliopsida;Magnoliales;Annonaceae;Annona;Annona squamosa
+trac251;Plantae;Magnoliopsida;Ericales;Sapotaceae;Mimusops;NA
+trac252;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac253;Plantae;Magnoliopsida;Celastrales;Celastraceae;NA;NA
+trac254;Plantae;Magnoliopsida;Aquifoliales;Aquifoliaceae;Ilex;NA
+trac255;Plantae;Magnoliopsida;Asterales;Asteraceae;NA;NA
+trac256;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac257;Plantae;NA;NA;NA;NA;NA
+trac258;Plantae;NA;NA;NA;NA;NA
+trac259;Plantae;Magnoliopsida;Malvales;Malvaceae;Malvastrum;Malvastrum coromandelianum
+trac26;Plantae;Magnoliopsida;Malvales;Malvaceae;NA;NA
+trac260;Plantae;NA;NA;NA;NA;NA
+trac261;Plantae;NA;NA;NA;NA;NA
+trac262;Plantae;Magnoliopsida;Rosales;Cannabaceae;Celtis;NA
+trac263;Plantae;NA;NA;NA;NA;NA
+trac264;Plantae;Magnoliopsida;Asterales;Asteraceae;Senecio;NA
+trac265;Plantae;Magnoliopsida;Caryophyllales;Amaranthaceae;Achyranthes;NA
+trac266;Plantae;NA;NA;NA;NA;NA
+trac267;Plantae;Magnoliopsida;Solanales;Convolvulaceae;Convolvulus;NA
+trac268;Plantae;Magnoliopsida;Caryophyllales;Amaranthaceae;Achyranthes;NA
+trac269;Plantae;Magnoliopsida;Caryophyllales;NA;NA;NA
+trac27;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac270;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac271;Plantae;Magnoliopsida;Sapindales;Sapindaceae;Lecaniodiscus;Lecaniodiscus fraxinifolius
+trac272;Plantae;NA;NA;NA;NA;NA
+trac273;Plantae;NA;Longamoebia;Thecamoebida;Sappinia;Sappinia pedata
+trac274;Plantae;Magnoliopsida;Fabales;Fabaceae;Pterolobium;Pterolobium stellatum
+trac275;Plantae;NA;NA;NA;NA;NA
+trac276;Plantae;Magnoliopsida;Geraniales;Geraniaceae;Pelargonium;NA
+trac277;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac278;Plantae;Magnoliopsida;Rosales;Cannabaceae;Trema;Trema angustifolia
+trac279;Plantae;Magnoliopsida;Malpighiales;Euphorbiaceae;Croton;NA
+trac28;Plantae;Magnoliopsida;Asterales;Asteraceae;NA;NA
+trac280;Plantae;NA;NA;NA;NA;NA
+trac281;Plantae;NA;NA;NA;NA;NA
+trac282;Plantae;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;NA
+trac283;Plantae;Magnoliopsida;NA;NA;NA;NA
+trac284;Plantae;NA;NA;NA;NA;NA
+trac285;Plantae;NA;NA;NA;NA;NA
+trac29;Plantae;Magnoliopsida;Asterales;Asteraceae;Galinsoga;NA
+trac3;Plantae;Magnoliopsida;Ericales;Sapotaceae;Englerophytum;Englerophytum magalismontanum
+trac30;Plantae;Magnoliopsida;Rosales;Cannabaceae;Celtis;NA
+trac31;Plantae;Magnoliopsida;Fabales;Fabaceae;Pterolobium;Pterolobium stellatum
+trac32;Plantae;Magnoliopsida;Lamiales;Oleaceae;Jasminum;Jasminum didymum
+trac33;Plantae;Magnoliopsida;Malvales;Malvaceae;NA;NA
+trac34;Plantae;Magnoliopsida;Asterales;Asteraceae;Chromolaena;NA
+trac35;Plantae;Magnoliopsida;Fabales;Fabaceae;Rhynchosia;Rhynchosia minima
+trac36;Plantae;Magnoliopsida;Sapindales;Anacardiaceae;Thyrsodium;Thyrsodium puberulum
+trac37;Plantae;Magnoliopsida;Malpighiales;Salicaceae;Dovyalis;NA
+trac38;Plantae;Magnoliopsida;Fabales;Fabaceae;Xeroderris;Xeroderris stuhlmannii
+trac39;Plantae;Magnoliopsida;Celastrales;Celastraceae;Loeseneriella;Loeseneriella urceolus
+trac4;Plantae;Magnoliopsida;Malpighiales;NA;NA;NA
+trac40;Plantae;Magnoliopsida;Aquifoliales;Aquifoliaceae;Ilex;NA
+trac41;Plantae;Magnoliopsida;Malpighiales;Euphorbiaceae;Croton;NA
+trac42;Plantae;Magnoliopsida;Malpighiales;Phyllanthaceae;Flueggea;NA
+trac43;Plantae;Magnoliopsida;Asterales;Asteraceae;NA;NA
+trac44;Plantae;Magnoliopsida;Malpighiales;Passifloraceae;Adenia;NA
+trac45;Plantae;Magnoliopsida;Caryophyllales;Amaranthaceae;Cyathula;Cyathula cylindrica
+trac46;Plantae;Magnoliopsida;Fabales;Fabaceae;Craibia;Craibia brevicaudata
+trac47;Plantae;Magnoliopsida;Myrtales;Combretaceae;Combretum;Combretum apiculatum
+trac48;Plantae;Magnoliopsida;Solanales;Solanaceae;Solanum;NA
+trac49;Plantae;Magnoliopsida;Malvales;Malvaceae;NA;NA
+trac5;Plantae;Magnoliopsida;Malpighiales;Euphorbiaceae;Acalypha;Acalypha rhomboidea
+trac50;Plantae;Magnoliopsida;Myrtales;Combretaceae;Combretum;NA
+trac51;Plantae;NA;NA;NA;NA;NA
+trac52;Plantae;Magnoliopsida;Myrtales;Combretaceae;NA;NA
+trac53;Plantae;Magnoliopsida;Caryophyllales;Amaranthaceae;Achyranthes;NA
+trac54;Plantae;Magnoliopsida;Malvales;Malvaceae;NA;NA
+trac55;Plantae;Magnoliopsida;Celastrales;Celastraceae;NA;NA
+trac56;Plantae;Magnoliopsida;NA;NA;NA;NA
+trac57;Plantae;Magnoliopsida;Brassicales;Salvadoraceae;Salvadora;Salvadora oleoides
+trac58;Plantae;Magnoliopsida;Fabales;Fabaceae;NA;NA
+trac59;Plantae;Magnoliopsida;Rosales;Cannabaceae;Trema;NA
+trac6;Plantae;Magnoliopsida;Fabales;Fabaceae;Philenoptera;Philenoptera violacea
+trac60;Plantae;NA;NA;NA;NA;NA
+trac61;Plantae;Magnoliopsida;Malvales;Malvaceae;Sida <eudicots>;NA
+trac62;Plantae;Magnoliopsida;Fabales;Fabaceae;Senna;NA
+trac63;Plantae;Magnoliopsida;Vitales;Vitaceae;Cissus;Cissus integrifolia
+trac64;Plantae;NA;NA;NA;NA;NA
+trac65;Plantae;Magnoliopsida;Fabales;Fabaceae;Indigofera;NA
+trac66;Plantae;Magnoliopsida;Poales;Poaceae;Enteropogon;Enteropogon dolichostachyus
+trac67;Plantae;Magnoliopsida;Malpighiales;Salicaceae;Dovyalis;NA
+trac68;Plantae;Magnoliopsida;Sapindales;Meliaceae;Lepidotrichilia;Lepidotrichilia volkensii
+trac69;Plantae;Magnoliopsida;Myrtales;Combretaceae;Combretum;NA
+trac7;Plantae;Magnoliopsida;Magnoliales;Annonaceae;Annona;Annona squamosa
+trac70;Plantae;Magnoliopsida;Lamiales;Acanthaceae;NA;NA
+trac71;Plantae;Magnoliopsida;Gentianales;Apocynaceae;Cryptolepis;Cryptolepis cryptolepioides
+trac72;Plantae;Magnoliopsida;Saxifragales;Crassulaceae;Crassula;Crassula pellucida
+trac73;Plantae;Magnoliopsida;Malvales;Malvaceae;Corchorus;NA
+trac74;Plantae;Magnoliopsida;Geraniales;Geraniaceae;Pelargonium;NA
+trac75;Plantae;Magnoliopsida;Malvales;Malvaceae;Abutilon;Abutilon mauritianum
+trac76;Plantae;NA;NA;NA;NA;NA
+trac77;Plantae;Magnoliopsida;Poales;Poaceae;NA;NA
+trac78;Plantae;Magnoliopsida;Sapindales;Meliaceae;Lepidotrichilia;Lepidotrichilia volkensii
+trac79;Plantae;Magnoliopsida;Santalales;Ximeniaceae;Ximenia;Ximenia americana
+trac8;Plantae;Magnoliopsida;Malvales;Malvaceae;NA;NA
+trac80;Plantae;Magnoliopsida;Asterales;Asteraceae;NA;NA
+trac81;Plantae;NA;NA;NA;NA;NA
+trac82;Plantae;Magnoliopsida;Rosales;Moraceae;Ficus;NA
+trac83;Plantae;Magnoliopsida;Malpighiales;Phyllanthaceae;Phyllanthus;Phyllanthus maderaspatensis
+trac84;Plantae;Magnoliopsida;Fabales;Fabaceae;Indigofera;NA
+trac85;Plantae;Magnoliopsida;Celastrales;Celastraceae;NA;NA
+trac86;Plantae;Magnoliopsida;Celastrales;Celastraceae;Gymnosporia;Gymnosporia divaricata
+trac87;Plantae;Magnoliopsida;NA;NA;NA;NA
+trac88;Plantae;NA;NA;NA;NA;NA
+trac89;Plantae;Magnoliopsida;Asterales;Asteraceae;NA;NA
+trac9;Plantae;Magnoliopsida;Asparagales;Amaryllidaceae;Galanthus;NA
+trac90;Plantae;Magnoliopsida;Myrtales;Myrtaceae;Heteropyxis;Heteropyxis natalensis
+trac91;Plantae;NA;NA;NA;NA;NA
+trac92;Plantae;Magnoliopsida;Myrtales;Combretaceae;Combretum;NA
+trac93;Plantae;NA;NA;NA;NA;NA
+trac94;Plantae;Magnoliopsida;Myrtales;Onagraceae;Ludwigia;Ludwigia stolonifera
+trac95;Plantae;Magnoliopsida;Malvales;Malvaceae;NA;NA
+trac96;Plantae;Magnoliopsida;Myrtales;Combretaceae;Combretum;NA
+trac97;Plantae;NA;NA;NA;NA;NA
+trac98;Plantae;Magnoliopsida;Myrtales;Myrtaceae;Psidium;Psidium guajava
+trac99;Plantae;Magnoliopsida;Malpighiales;Phyllanthaceae;Phyllanthus;NA
+vert10;Animalia;Lepidosauria;Squamata;Typhlopidae;NA;NA
+vert11;Animalia;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+vert12;Animalia;Amphibia;Anura;Bufonidae;NA;NA
+vert13;Animalia;Mammalia;NA;NA;NA;NA
+vert14;Animalia;Mammalia;Rodentia;Muridae;Rhabdomys;Rhabdomys pumilio
+vert15;Animalia;Mammalia;Rodentia;Muridae;Mus;NA
+vert16;Animalia;Mammalia;Macroscelidea;Macroscelididae;Elephantulus;NA
+vert17;Animalia;Mammalia;Rodentia;Muridae;NA;NA
+vert18;Animalia;Mammalia;NA;NA;NA;NA
+vert19;Animalia;Mammalia;Carnivora;NA;NA;NA
+vert2;Animalia;Mammalia;Carnivora;Viverridae;NA;NA
+vert20;Animalia;Lepidosauria;Squamata;Gekkonidae;Hemidactylus;NA
+vert21;Animalia;Mammalia;Primates;Cercopithecidae;Cercopithecus;NA
+vert22;Animalia;Mammalia;Rodentia;NA;NA;NA
+vert23;Animalia;Mammalia;Carnivora;NA;NA;NA
+vert24;Animalia;Mammalia;Rodentia;NA;NA;NA
+vert25;Animalia;Mammalia;Primates;Cercopithecidae;NA;NA
+vert26;Animalia;Amphibia;Anura;Pyxicephalidae;Amietia;NA
+vert27;Animalia;Amphibia;Anura;Bufonidae;NA;NA
+vert28;Animalia;Lepidosauria;Squamata;Chamaeleonidae;Chamaeleo;Chamaeleo dilepis
+vert29;Animalia;NA;Testudines;Testudinidae;NA;NA
+vert3;Animalia;Aves;Coliiformes;Coliidae;Colius;Colius striatus
+vert30;Animalia;Mammalia;Artiodactyla;Bovidae;Bos;NA
+vert31;Animalia;Mammalia;Carnivora;Felidae;NA;NA
+vert32;Animalia;NA;NA;NA;NA;NA
+vert33;Animalia;NA;NA;NA;NA;NA
+vert34;Animalia;Lepidosauria;Squamata;Leptotyphlopidae;Leptotyphlops;NA
+vert35;Animalia;Mammalia;Artiodactyla;Bovidae;Aepyceros;Aepyceros melampus
+vert36;Animalia;Aves;Galliformes;Phasianidae;NA;NA
+vert37;Animalia;Lepidosauria;Squamata;NA;NA;NA
+vert38;Animalia;Mammalia;Rodentia;NA;NA;NA
+vert39;Animalia;Amphibia;Anura;Rhacophoridae;Chiromantis;NA
+vert4;Animalia;Mammalia;Carnivora;NA;NA;NA
+vert40;Animalia;Amphibia;Anura;NA;NA;NA
+vert41;Animalia;NA;NA;NA;NA;NA
+vert42;Animalia;Mammalia;Artiodactyla;Bovidae;NA;NA
+vert43;Animalia;Amphibia;Anura;Hyperoliidae;Hyperolius;NA
+vert44;Animalia;Amphibia;Anura;Ptychadenidae;Ptychadena;Ptychadena nuerensis
+vert45;Animalia;Lepidosauria;Squamata;Scincidae;Mabuya;NA
+vert46;Animalia;Amphibia;Anura;Hyperoliidae;Kassina;Kassina senegalensis
+vert47;Animalia;Lepidosauria;Squamata;NA;NA;NA
+vert48;Animalia;Lepidosauria;Squamata;Scincidae;Afroablepharus;NA
+vert49;Animalia;Mammalia;Artiodactyla;Suidae;NA;NA
+vert5;Animalia;NA;NA;NA;NA;NA
+vert50;Animalia;Mammalia;Primates;Galagidae;NA;NA
+vert51;Animalia;Aves;Passeriformes;NA;NA;NA
+vert52;Animalia;NA;NA;NA;NA;NA
+vert53;Animalia;NA;NA;NA;NA;NA
+vert54;Animalia;Mammalia;Rodentia;NA;NA;NA
+vert55;Animalia;Mammalia;Artiodactyla;Bovidae;NA;NA
+vert56;Animalia;NA;NA;NA;NA;NA
+vert57;Animalia;NA;NA;NA;NA;NA
+vert58;Animalia;NA;NA;NA;NA;NA
+vert59;Animalia;Amphibia;Anura;Pyxicephalidae;Tomopterna;NA
+vert6;Animalia;Mammalia;Primates;Cercopithecidae;NA;NA
+vert60;Animalia;NA;NA;NA;NA;NA
+vert61;Animalia;NA;NA;NA;NA;NA
+vert62;Animalia;Lepidosauria;Squamata;NA;NA;NA
+vert63;Animalia;NA;NA;NA;NA;NA
+vert64;Animalia;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+vert65;Animalia;NA;NA;NA;NA;NA
+vert66;Animalia;NA;NA;NA;NA;NA
+vert67;Animalia;Mammalia;Rodentia;Gliridae;Graphiurus;Graphiurus platyops
+vert68;Animalia;NA;NA;NA;NA;NA
+vert69;Animalia;NA;NA;NA;NA;NA
+vert7;Animalia;Mammalia;Hyracoidea;Procaviidae;Procavia;Procavia capensis
+vert70;Animalia;NA;NA;NA;NA;NA
+vert71;Animalia;NA;NA;NA;NA;NA
+vert72;Animalia;Lepidosauria;Squamata;NA;NA;NA
+vert73;Animalia;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+vert74;Animalia;NA;NA;NA;NA;NA
+vert75;Animalia;Mammalia;Primates;Hominidae;NA;NA
+vert76;Animalia;NA;NA;NA;NA;NA
+vert77;Animalia;NA;NA;NA;NA;NA
+vert78;Animalia;NA;NA;NA;NA;NA
+vert8;Animalia;Mammalia;NA;NA;NA;NA
+vert9;Animalia;Mammalia;Carnivora;NA;NA;NA
+zeale1;Animalia;Insecta;NA;NA;NA;NA
+zeale10;Animalia;Insecta;Coleoptera;Scarabaeidae;Onthophagus;Onthophagus sugillatus
+zeale100;Animalia;NA;NA;NA;NA;NA
+zeale101;Animalia;Insecta;Diptera;Sarcophagidae;Sarcophaga;NA
+zeale102;Animalia;Insecta;Diptera;NA;NA;NA
+zeale103;Animalia;NA;NA;NA;NA;NA
+zeale104;Animalia;Insecta;Hemiptera;NA;NA;NA
+zeale105;Animalia;NA;NA;NA;NA;NA
+zeale106;Animalia;NA;NA;NA;NA;NA
+zeale107;Animalia;NA;NA;NA;NA;NA
+zeale108;Animalia;NA;NA;NA;NA;NA
+zeale109;Animalia;NA;NA;NA;NA;NA
+zeale11;Animalia;NA;NA;NA;NA;NA
+zeale110;Animalia;Chromadorea;NA;NA;NA;NA
+zeale111;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale112;Animalia;Florideophyceae;Batrachospermales;Batrachospermaceae;Nothocladus;Nothocladus verruculosus
+zeale113;Animalia;Insecta;NA;NA;NA;NA
+zeale114;Animalia;Insecta;NA;NA;NA;NA
+zeale115;Animalia;NA;NA;NA;NA;NA
+zeale116;Animalia;Chilopoda;Scolopendromorpha;NA;NA;NA
+zeale117;Animalia;NA;NA;NA;NA;NA
+zeale118;Animalia;NA;NA;NA;NA;NA
+zeale119;Animalia;Florideophyceae;NA;NA;NA;NA
+zeale12;Animalia;Insecta;NA;NA;NA;NA
+zeale120;Animalia;Insecta;NA;NA;NA;NA
+zeale121;Animalia;NA;NA;NA;NA;NA
+zeale122;Animalia;Insecta;Orthoptera;Acrididae;NA;NA
+zeale123;Animalia;Insecta;NA;NA;NA;NA
+zeale124;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale125;Animalia;Insecta;NA;NA;NA;NA
+zeale126;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale127;Animalia;Insecta;Hemiptera;NA;NA;NA
+zeale128;Animalia;Chromadorea;Rhabditida;Rhabditidae;Caenorhabditis;NA
+zeale129;Animalia;Chromadorea;NA;NA;NA;NA
+zeale13;Animalia;Insecta;NA;NA;NA;NA
+zeale130;Animalia;NA;NA;NA;NA;NA
+zeale131;Animalia;NA;NA;NA;NA;NA
+zeale132;Animalia;NA;NA;NA;NA;NA
+zeale133;Animalia;Arachnida;Araneae;NA;NA;NA
+zeale134;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale135;Animalia;NA;NA;NA;NA;NA
+zeale136;Animalia;NA;NA;NA;NA;NA
+zeale137;Animalia;Insecta;NA;NA;NA;NA
+zeale138;Animalia;Insecta;Diptera;Cecidomyiidae;NA;NA
+zeale139;Animalia;NA;NA;NA;NA;NA
+zeale14;Animalia;NA;NA;NA;NA;NA
+zeale140;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale141;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale142;Animalia;Arachnida;Sarcoptiformes;NA;NA;NA
+zeale143;Animalia;Insecta;Diptera;Phoridae;NA;NA
+zeale144;Animalia;Insecta;NA;NA;NA;NA
+zeale145;Animalia;NA;NA;NA;NA;NA
+zeale146;Animalia;Chromadorea;Rhabditida;NA;NA;NA
+zeale147;Animalia;Arachnida;Araneae;Salticidae;NA;NA
+zeale148;Animalia;NA;NA;NA;NA;NA
+zeale149;Animalia;Insecta;Diptera;Sarcophagidae;Sarcophaga;NA
+zeale15;Animalia;Insecta;NA;NA;NA;NA
+zeale150;Animalia;NA;NA;NA;NA;NA
+zeale151;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale152;Animalia;Insecta;Diptera;NA;NA;NA
+zeale153;Animalia;NA;NA;NA;NA;NA
+zeale154;Animalia;Insecta;Diptera;NA;NA;NA
+zeale155;Animalia;Insecta;NA;NA;NA;NA
+zeale156;Animalia;Magnoliopsida;NA;NA;NA;NA
+zeale157;Animalia;NA;NA;NA;NA;NA
+zeale158;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale159;Animalia;NA;NA;NA;NA;NA
+zeale16;Animalia;NA;NA;NA;NA;NA
+zeale160;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale161;Animalia;NA;NA;NA;NA;NA
+zeale162;Animalia;NA;NA;NA;NA;NA
+zeale163;Animalia;NA;NA;NA;NA;NA
+zeale164;Animalia;NA;NA;NA;NA;NA
+zeale165;Animalia;Insecta;Diptera;Cecidomyiidae;NA;NA
+zeale166;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale167;Animalia;NA;NA;NA;NA;NA
+zeale168;Animalia;Insecta;Hemiptera;Rhyparochromidae;NA;NA
+zeale169;Animalia;NA;NA;NA;NA;NA
+zeale17;Animalia;NA;NA;NA;NA;NA
+zeale170;Animalia;Arachnida;Sarcoptiformes;Brachychthoniidae;NA;NA
+zeale171;Animalia;Insecta;NA;NA;NA;NA
+zeale172;Animalia;NA;NA;NA;NA;NA
+zeale173;Animalia;NA;NA;NA;NA;NA
+zeale174;Animalia;NA;NA;NA;NA;NA
+zeale175;Animalia;NA;NA;NA;NA;NA
+zeale176;Animalia;NA;NA;NA;NA;NA
+zeale177;Animalia;Insecta;NA;NA;NA;NA
+zeale178;Animalia;NA;NA;NA;NA;NA
+zeale179;Animalia;NA;NA;NA;NA;NA
+zeale18;Animalia;Insecta;NA;NA;NA;NA
+zeale180;Animalia;NA;NA;NA;NA;NA
+zeale181;Animalia;Arachnida;Trombidiformes;Oxidae;Oxus;Oxus sp. 20280C
+zeale182;Animalia;NA;NA;NA;NA;NA
+zeale183;Animalia;Insecta;Orthoptera;Acrididae;Schistocerca;NA
+zeale184;Animalia;NA;NA;NA;NA;NA
+zeale185;Animalia;NA;NA;NA;NA;NA
+zeale186;Animalia;NA;NA;NA;NA;NA
+zeale187;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale188;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale189;Animalia;Insecta;Orthoptera;Gryllidae;NA;NA
+zeale19;Animalia;Insecta;Coleoptera;Tenebrionidae;Tenebrio;Tenebrio molitor
+zeale190;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale191;Animalia;Insecta;Coleoptera;Scarabaeidae;Apotolamprus;Apotolamprus quadrinotatus
+zeale192;Animalia;NA;NA;NA;NA;NA
+zeale193;Animalia;NA;NA;NA;NA;NA
+zeale194;Animalia;NA;NA;NA;NA;NA
+zeale195;Animalia;NA;Saprolegniales;Saprolegniaceae;Leptolegnia;Leptolegnia sp. BOLD:AAX5717
+zeale196;Animalia;Insecta;NA;NA;NA;NA
+zeale197;Animalia;NA;NA;NA;NA;NA
+zeale198;Animalia;NA;NA;NA;NA;NA
+zeale199;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale2;Animalia;NA;NA;NA;NA;NA
+zeale20;Animalia;Insecta;NA;NA;NA;NA
+zeale200;Animalia;NA;NA;NA;NA;NA
+zeale201;Animalia;Eustigmatophyceae;Eustigmatales;Monodopsidaceae;Monodopsis;Monodopsis sp. MarTras21
+zeale202;Animalia;Insecta;Diptera;Cecidomyiidae;NA;NA
+zeale203;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale204;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale205;Animalia;Insecta;Orthoptera;Acrididae;NA;NA
+zeale206;Animalia;Insecta;Orthoptera;Acrididae;NA;NA
+zeale207;Animalia;Insecta;Diptera;NA;NA;NA
+zeale208;Animalia;Insecta;Diptera;Sarcophagidae;NA;NA
+zeale209;Animalia;NA;NA;NA;NA;NA
+zeale21;Animalia;NA;NA;NA;NA;NA
+zeale210;Animalia;NA;NA;NA;NA;NA
+zeale211;Animalia;Chromadorea;Rhabditida;NA;NA;NA
+zeale212;Animalia;NA;NA;NA;NA;NA
+zeale213;Animalia;NA;NA;NA;NA;NA
+zeale214;Animalia;NA;NA;NA;NA;NA
+zeale215;Animalia;Phaeophyceae;Sphacelariales;Cladostephaceae;Cladostephus;Cladostephus spongiosus
+zeale216;Animalia;NA;NA;NA;NA;NA
+zeale217;Animalia;NA;NA;NA;NA;NA
+zeale218;Animalia;NA;NA;NA;NA;NA
+zeale219;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale22;Animalia;Arachnida;Araneae;NA;NA;NA
+zeale220;Animalia;Chromadorea;Rhabditida;NA;NA;Rhabditida sp. 3021ed
+zeale221;Animalia;NA;NA;NA;NA;NA
+zeale222;Animalia;Insecta;Coleoptera;Cantharidae;NA;NA
+zeale223;Animalia;NA;NA;NA;NA;NA
+zeale224;Animalia;Insecta;Hymenoptera;NA;NA;NA
+zeale225;Animalia;NA;NA;NA;NA;NA
+zeale226;Animalia;NA;NA;NA;NA;NA
+zeale227;Animalia;Insecta;NA;NA;NA;NA
+zeale228;Animalia;NA;NA;NA;NA;NA
+zeale229;Animalia;NA;NA;NA;NA;NA
+zeale23;Animalia;Arachnida;Sarcoptiformes;NA;NA;NA
+zeale230;Animalia;Insecta;NA;NA;NA;NA
+zeale231;Animalia;NA;NA;NA;NA;NA
+zeale232;Animalia;NA;NA;NA;NA;NA
+zeale233;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale234;Animalia;Arachnida;Araneae;NA;NA;NA
+zeale235;Animalia;Insecta;NA;NA;NA;NA
+zeale236;Animalia;NA;NA;NA;NA;NA
+zeale237;Animalia;NA;NA;NA;NA;NA
+zeale238;Animalia;NA;NA;NA;NA;NA
+zeale239;Animalia;Insecta;NA;NA;NA;NA
+zeale24;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale240;Animalia;Insecta;Orthoptera;Acrididae;NA;NA
+zeale241;Animalia;NA;NA;NA;NA;NA
+zeale242;Animalia;NA;NA;NA;NA;NA
+zeale243;Animalia;Insecta;Hymenoptera;Braconidae;Tebennotoma;Tebennotoma sp. 3 DLJQ-2016
+zeale244;Animalia;NA;NA;NA;NA;NA
+zeale245;Animalia;Arachnida;Sarcoptiformes;NA;NA;NA
+zeale246;Animalia;NA;NA;NA;NA;NA
+zeale247;Animalia;NA;NA;NA;NA;NA
+zeale248;Animalia;NA;NA;NA;NA;NA
+zeale249;Animalia;NA;NA;NA;NA;NA
+zeale25;Animalia;Insecta;NA;NA;NA;NA
+zeale250;Animalia;NA;NA;NA;NA;NA
+zeale251;Animalia;NA;NA;NA;NA;NA
+zeale252;Animalia;Insecta;Thysanoptera;Thripidae;Parabaliothrips;Parabaliothrips takahashii
+zeale253;Animalia;NA;NA;NA;NA;NA
+zeale254;Animalia;NA;NA;NA;NA;NA
+zeale255;Animalia;Arachnida;Araneae;Clubionidae;Clubiona;NA
+zeale256;Animalia;NA;NA;NA;NA;NA
+zeale257;Animalia;Arachnida;Trombidiformes;Eriophyidae;Aceria;Aceria tulipae
+zeale258;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale259;Animalia;NA;NA;NA;NA;NA
+zeale26;Animalia;Insecta;Diptera;NA;NA;NA
+zeale260;Animalia;Insecta;Diptera;NA;NA;NA
+zeale261;Animalia;NA;NA;NA;NA;NA
+zeale262;Animalia;NA;NA;NA;NA;NA
+zeale263;Animalia;NA;NA;NA;NA;NA
+zeale264;Animalia;Insecta;Orthoptera;Acrididae;NA;NA
+zeale265;Animalia;NA;NA;NA;NA;NA
+zeale266;Animalia;NA;NA;NA;NA;NA
+zeale267;Animalia;NA;NA;NA;NA;NA
+zeale268;Animalia;NA;NA;NA;NA;NA
+zeale269;Animalia;NA;NA;NA;NA;NA
+zeale27;Animalia;Insecta;Diptera;NA;NA;NA
+zeale270;Animalia;NA;NA;NA;NA;NA
+zeale271;Animalia;NA;NA;NA;NA;NA
+zeale272;Animalia;Arachnida;Sarcoptiformes;NA;NA;NA
+zeale273;Animalia;NA;NA;NA;NA;NA
+zeale274;Animalia;NA;NA;NA;NA;NA
+zeale275;Animalia;NA;NA;NA;NA;NA
+zeale276;Animalia;NA;NA;NA;NA;NA
+zeale277;Animalia;Insecta;Diptera;NA;NA;NA
+zeale278;Animalia;NA;NA;NA;NA;NA
+zeale279;Animalia;NA;Saprolegniales;Saprolegniaceae;Aphanomyces;Aphanomyces invadans
+zeale28;Animalia;NA;NA;NA;NA;NA
+zeale280;Animalia;NA;NA;NA;NA;NA
+zeale281;Animalia;NA;NA;NA;NA;NA
+zeale282;Animalia;NA;NA;NA;NA;NA
+zeale283;Animalia;Flabellinia;NA;Vannellidae;Vannella;Vannella calycinucleolus
+zeale284;Animalia;Insecta;Hymenoptera;NA;NA;NA
+zeale285;Animalia;Insecta;Hemiptera;Cicadellidae;NA;NA
+zeale286;Animalia;NA;NA;NA;NA;NA
+zeale287;Animalia;NA;NA;NA;NA;NA
+zeale288;Animalia;Insecta;NA;NA;NA;NA
+zeale289;Animalia;NA;NA;NA;NA;NA
+zeale29;Animalia;Insecta;Hymenoptera;Scelionidae;NA;NA
+zeale290;Animalia;NA;NA;NA;NA;NA
+zeale291;Animalia;NA;NA;NA;NA;NA
+zeale292;Animalia;NA;NA;NA;NA;NA
+zeale293;Animalia;Insecta;Diptera;NA;NA;NA
+zeale294;Animalia;Insecta;Diptera;Phoridae;Megaselia;Megaselia scalaris
+zeale295;Animalia;NA;NA;NA;NA;NA
+zeale296;Animalia;NA;NA;NA;NA;NA
+zeale297;Animalia;NA;NA;NA;NA;NA
+zeale298;Animalia;NA;NA;NA;NA;NA
+zeale299;Animalia;NA;NA;NA;NA;NA
+zeale3;Animalia;Insecta;NA;NA;NA;NA
+zeale30;Animalia;Collembola;NA;NA;NA;NA
+zeale300;Animalia;NA;NA;NA;NA;NA
+zeale301;Animalia;Insecta;NA;NA;NA;NA
+zeale302;Animalia;NA;NA;NA;NA;NA
+zeale303;Animalia;NA;NA;NA;NA;NA
+zeale304;Animalia;NA;NA;NA;NA;NA
+zeale305;Animalia;NA;NA;NA;NA;NA
+zeale306;Animalia;NA;NA;NA;NA;NA
+zeale307;Animalia;NA;NA;NA;NA;NA
+zeale308;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale309;Animalia;NA;NA;NA;NA;NA
+zeale31;Animalia;Insecta;NA;NA;NA;NA
+zeale310;Animalia;NA;NA;NA;NA;NA
+zeale311;Animalia;NA;NA;NA;NA;NA
+zeale312;Animalia;NA;NA;NA;NA;NA
+zeale313;Animalia;NA;Saprolegniales;Saprolegniaceae;Aphanomyces;Aphanomyces laevis
+zeale314;Animalia;NA;NA;NA;NA;NA
+zeale315;Animalia;NA;NA;NA;NA;NA
+zeale316;Animalia;NA;NA;NA;NA;NA
+zeale317;Animalia;NA;NA;NA;NA;NA
+zeale318;Animalia;Arachnida;Sarcoptiformes;Proctophyllodidae;Proctophyllodes;Proctophyllodes motacillae
+zeale319;Animalia;NA;NA;NA;NA;NA
+zeale32;Animalia;NA;NA;NA;NA;NA
+zeale320;Animalia;NA;NA;NA;NA;NA
+zeale321;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale322;Animalia;NA;NA;NA;NA;NA
+zeale323;Animalia;NA;NA;NA;NA;NA
+zeale324;Animalia;Insecta;Diptera;Culicidae;NA;NA
+zeale325;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale326;Animalia;NA;NA;NA;NA;NA
+zeale327;Animalia;NA;NA;NA;NA;NA
+zeale328;Animalia;NA;Saprolegniales;Saprolegniaceae;Achlya;Achlya heterosexualis
+zeale329;Animalia;NA;NA;NA;NA;NA
+zeale33;Animalia;Insecta;Diptera;NA;NA;NA
+zeale330;Animalia;Arachnida;Sarcoptiformes;Parakalummidae;NA;Parakalummidae sp. BOLD:ACL9457
+zeale331;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale332;Animalia;Arachnida;Trombidiformes;Eupodidae;NA;NA
+zeale333;Animalia;NA;NA;NA;NA;NA
+zeale334;Animalia;NA;NA;NA;NA;NA
+zeale335;Animalia;NA;NA;NA;NA;NA
+zeale336;Animalia;NA;NA;NA;NA;NA
+zeale337;Animalia;Actinopteri;Cyprinodontiformes;Rivulidae;Nematolebias;Nematolebias catimbau
+zeale338;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale339;Animalia;NA;NA;NA;NA;NA
+zeale34;Animalia;Arachnida;Trombidiformes;Eriophyidae;Aceria;Aceria tosichella
+zeale340;Animalia;NA;NA;NA;NA;NA
+zeale341;Animalia;Insecta;Trichoptera;NA;NA;NA
+zeale342;Animalia;NA;NA;NA;NA;NA
+zeale343;Animalia;NA;NA;NA;NA;NA
+zeale344;Animalia;NA;NA;NA;NA;NA
+zeale345;Animalia;NA;NA;NA;NA;NA
+zeale346;Animalia;NA;NA;NA;NA;NA
+zeale347;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale348;Animalia;Insecta;Orthoptera;Acrididae;NA;NA
+zeale349;Animalia;NA;NA;NA;NA;NA
+zeale35;Animalia;Insecta;Diptera;NA;NA;NA
+zeale350;Animalia;NA;NA;NA;NA;NA
+zeale351;Animalia;NA;NA;NA;NA;NA
+zeale352;Animalia;NA;NA;NA;NA;NA
+zeale353;Animalia;NA;NA;NA;NA;NA
+zeale354;Animalia;NA;NA;NA;NA;NA
+zeale355;Animalia;NA;NA;NA;NA;NA
+zeale356;Animalia;NA;NA;NA;NA;NA
+zeale357;Animalia;NA;NA;NA;NA;NA
+zeale358;Animalia;Chromadorea;NA;NA;NA;NA
+zeale359;Animalia;Insecta;Thysanoptera;Phlaeothripidae;NA;NA
+zeale36;Animalia;NA;NA;NA;NA;NA
+zeale360;Animalia;NA;NA;NA;NA;NA
+zeale361;Animalia;NA;NA;NA;NA;NA
+zeale362;Animalia;NA;NA;NA;NA;NA
+zeale363;Animalia;NA;NA;NA;NA;NA
+zeale364;Animalia;NA;NA;NA;NA;NA
+zeale365;Animalia;NA;NA;NA;NA;NA
+zeale366;Animalia;NA;NA;NA;NA;NA
+zeale367;Animalia;NA;NA;NA;NA;NA
+zeale368;Animalia;NA;NA;NA;NA;NA
+zeale369;Animalia;NA;NA;NA;NA;NA
+zeale37;Animalia;NA;NA;NA;NA;NA
+zeale370;Animalia;Bangiophyceae;Bangiales;Bangiaceae;NA;NA
+zeale371;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale372;Animalia;NA;NA;NA;NA;NA
+zeale373;Animalia;NA;NA;NA;NA;NA
+zeale374;Animalia;NA;NA;NA;NA;NA
+zeale375;Animalia;Insecta;Hymenoptera;NA;NA;NA
+zeale376;Animalia;NA;NA;NA;NA;NA
+zeale377;Animalia;NA;NA;NA;NA;NA
+zeale378;Animalia;NA;NA;NA;NA;NA
+zeale379;Animalia;NA;NA;NA;NA;NA
+zeale38;Animalia;Insecta;Diptera;NA;NA;NA
+zeale380;Animalia;NA;NA;NA;NA;NA
+zeale381;Animalia;NA;NA;NA;NA;NA
+zeale382;Animalia;Chromadorea;NA;NA;NA;NA
+zeale383;Animalia;NA;NA;NA;NA;NA
+zeale384;Animalia;NA;NA;NA;NA;NA
+zeale385;Animalia;NA;NA;NA;NA;NA
+zeale386;Animalia;NA;NA;NA;NA;NA
+zeale387;Animalia;NA;NA;NA;NA;NA
+zeale388;Animalia;NA;NA;NA;NA;NA
+zeale389;Animalia;NA;Myzocytiopsidales;Myzocytiopsidaceae;Chlamydomyzium;NA
+zeale39;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale390;Animalia;NA;NA;NA;NA;NA
+zeale391;Animalia;NA;NA;NA;NA;NA
+zeale392;Animalia;NA;NA;NA;NA;NA
+zeale393;Animalia;NA;NA;NA;NA;NA
+zeale394;Animalia;NA;NA;NA;NA;NA
+zeale395;Animalia;NA;NA;NA;NA;NA
+zeale396;Animalia;NA;NA;NA;NA;NA
+zeale397;Animalia;NA;NA;NA;NA;NA
+zeale398;Animalia;NA;NA;NA;NA;NA
+zeale399;Animalia;NA;NA;NA;NA;NA
+zeale4;Animalia;Insecta;NA;NA;NA;NA
+zeale40;Animalia;Insecta;Hemiptera;NA;NA;NA
+zeale400;Animalia;Bacillariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia cf. recta RT-2009
+zeale401;Animalia;Arachnida;Sarcoptiformes;NA;NA;NA
+zeale402;Animalia;Collembola;Poduromorpha;NA;NA;NA
+zeale403;Animalia;NA;NA;NA;NA;NA
+zeale404;Animalia;NA;NA;NA;NA;NA
+zeale405;Animalia;NA;Peronosporales;Peronosporaceae;Phytophthora;NA
+zeale406;Animalia;NA;NA;NA;NA;NA
+zeale407;Animalia;NA;NA;NA;NA;NA
+zeale408;Animalia;NA;NA;NA;NA;NA
+zeale409;Animalia;NA;NA;NA;NA;NA
+zeale41;Animalia;Insecta;Diptera;NA;NA;NA
+zeale410;Animalia;NA;NA;NA;NA;NA
+zeale411;Animalia;NA;NA;NA;NA;NA
+zeale412;Animalia;NA;NA;NA;NA;NA
+zeale413;Animalia;NA;NA;NA;NA;NA
+zeale414;Animalia;NA;NA;NA;NA;NA
+zeale415;Animalia;NA;NA;NA;NA;NA
+zeale416;Animalia;NA;NA;NA;NA;NA
+zeale417;Animalia;NA;NA;NA;NA;NA
+zeale418;Animalia;Insecta;Hemiptera;Scutelleridae;NA;NA
+zeale419;Animalia;NA;NA;NA;NA;NA
+zeale42;Animalia;Insecta;Hymenoptera;Megaspilidae;NA;NA
+zeale420;Animalia;Phaeophyceae;Ectocarpales;Acinetosporaceae;Hincksia;NA
+zeale421;Animalia;NA;NA;NA;NA;NA
+zeale422;Animalia;NA;NA;NA;NA;NA
+zeale423;Animalia;NA;NA;NA;NA;NA
+zeale424;Animalia;NA;NA;NA;NA;NA
+zeale425;Animalia;NA;NA;NA;NA;NA
+zeale426;Animalia;NA;NA;NA;NA;NA
+zeale427;Animalia;NA;NA;NA;NA;NA
+zeale428;Animalia;NA;NA;NA;NA;NA
+zeale429;Animalia;NA;NA;NA;NA;NA
+zeale43;Animalia;NA;NA;NA;NA;NA
+zeale430;Animalia;NA;NA;NA;NA;NA
+zeale431;Animalia;NA;NA;NA;NA;NA
+zeale432;Animalia;NA;NA;NA;NA;NA
+zeale433;Animalia;NA;NA;NA;NA;NA
+zeale434;Animalia;NA;NA;NA;NA;NA
+zeale435;Animalia;NA;NA;NA;NA;NA
+zeale436;Animalia;NA;NA;NA;NA;NA
+zeale437;Animalia;NA;NA;NA;NA;NA
+zeale438;Animalia;NA;NA;NA;NA;NA
+zeale439;Animalia;NA;NA;NA;NA;NA
+zeale44;Animalia;Insecta;Diptera;NA;NA;NA
+zeale440;Animalia;NA;NA;NA;NA;NA
+zeale441;Animalia;NA;NA;NA;NA;NA
+zeale442;Animalia;Chromadorea;Strongylida;Heligmosomatidae;Heligmosomoides;Heligmosomoides polygyrus
+zeale443;Animalia;Aves;Passeriformes;Acanthizidae;Gerygone;Gerygone mouki
+zeale444;Animalia;NA;NA;NA;NA;NA
+zeale445;Animalia;NA;NA;NA;NA;NA
+zeale446;Animalia;NA;NA;NA;NA;NA
+zeale447;Animalia;NA;NA;NA;NA;NA
+zeale448;Animalia;Insecta;NA;NA;NA;NA
+zeale449;Animalia;Insecta;NA;NA;NA;NA
+zeale45;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale450;Animalia;NA;NA;NA;NA;NA
+zeale451;Animalia;Insecta;NA;NA;NA;NA
+zeale452;Animalia;Florideophyceae;Ceramiales;Rhodomelaceae;NA;NA
+zeale453;Animalia;NA;NA;NA;NA;NA
+zeale454;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale455;Animalia;NA;NA;NA;NA;NA
+zeale456;Animalia;NA;NA;NA;NA;NA
+zeale457;Animalia;NA;NA;NA;NA;NA
+zeale458;Animalia;NA;NA;NA;NA;NA
+zeale459;Animalia;NA;NA;NA;NA;NA
+zeale46;Animalia;Insecta;NA;NA;NA;NA
+zeale460;Animalia;NA;NA;NA;NA;NA
+zeale461;Animalia;NA;NA;NA;NA;NA
+zeale462;Animalia;NA;NA;NA;NA;NA
+zeale463;Animalia;NA;NA;NA;NA;NA
+zeale464;Animalia;NA;NA;NA;NA;NA
+zeale465;Animalia;NA;NA;NA;NA;NA
+zeale466;Animalia;NA;NA;NA;NA;NA
+zeale467;Animalia;NA;NA;NA;NA;NA
+zeale468;Animalia;NA;NA;NA;NA;NA
+zeale469;Animalia;NA;NA;NA;NA;NA
+zeale47;Animalia;Insecta;Lepidoptera;Nymphalidae;NA;NA
+zeale470;Animalia;NA;NA;NA;NA;NA
+zeale471;Animalia;NA;NA;NA;NA;NA
+zeale472;Animalia;NA;NA;NA;NA;NA
+zeale473;Animalia;NA;NA;NA;NA;NA
+zeale474;Animalia;NA;NA;NA;NA;NA
+zeale475;Animalia;NA;NA;NA;NA;NA
+zeale476;Animalia;NA;NA;NA;NA;NA
+zeale477;Animalia;NA;NA;NA;NA;NA
+zeale478;Animalia;NA;NA;NA;NA;NA
+zeale479;Animalia;NA;NA;NA;NA;NA
+zeale48;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale480;Animalia;NA;NA;NA;NA;NA
+zeale481;Animalia;NA;NA;NA;NA;NA
+zeale482;Animalia;NA;NA;NA;NA;NA
+zeale483;Animalia;NA;NA;NA;NA;NA
+zeale484;Animalia;NA;NA;NA;NA;NA
+zeale485;Animalia;NA;NA;NA;NA;NA
+zeale486;Animalia;NA;NA;NA;NA;NA
+zeale487;Animalia;NA;NA;NA;NA;NA
+zeale488;Animalia;NA;NA;NA;NA;NA
+zeale489;Animalia;NA;NA;NA;NA;NA
+zeale49;Animalia;Insecta;NA;NA;NA;NA
+zeale490;Animalia;NA;NA;NA;NA;NA
+zeale491;Animalia;NA;NA;NA;NA;NA
+zeale492;Animalia;Insecta;Hymenoptera;NA;NA;NA
+zeale493;Animalia;NA;NA;NA;NA;NA
+zeale494;Animalia;NA;NA;NA;NA;NA
+zeale495;Animalia;NA;NA;NA;NA;NA
+zeale496;Animalia;NA;NA;NA;NA;NA
+zeale497;Animalia;NA;NA;NA;NA;NA
+zeale498;Animalia;NA;NA;NA;NA;NA
+zeale499;Animalia;Chromadorea;Strongylida;NA;NA;NA
+zeale5;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale50;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale500;Animalia;NA;NA;NA;NA;NA
+zeale501;Animalia;NA;NA;NA;NA;NA
+zeale502;Animalia;NA;NA;NA;NA;NA
+zeale503;Animalia;NA;NA;NA;NA;NA
+zeale504;Animalia;NA;NA;NA;NA;NA
+zeale505;Animalia;NA;NA;NA;NA;NA
+zeale506;Animalia;NA;NA;NA;NA;NA
+zeale507;Animalia;NA;NA;NA;NA;NA
+zeale508;Animalia;NA;NA;NA;NA;NA
+zeale509;Animalia;Arachnida;Sarcoptiformes;NA;NA;NA
+zeale51;Animalia;NA;NA;NA;NA;NA
+zeale510;Animalia;NA;NA;NA;NA;NA
+zeale511;Animalia;Insecta;NA;NA;NA;NA
+zeale512;Animalia;NA;NA;NA;NA;NA
+zeale513;Animalia;NA;NA;NA;NA;NA
+zeale514;Animalia;NA;NA;NA;NA;NA
+zeale515;Animalia;NA;NA;NA;NA;NA
+zeale516;Animalia;NA;NA;NA;NA;NA
+zeale517;Animalia;NA;NA;NA;NA;NA
+zeale518;Animalia;NA;NA;NA;NA;NA
+zeale519;Animalia;NA;NA;NA;NA;NA
+zeale52;Animalia;Insecta;Diptera;Muscidae;NA;NA
+zeale520;Animalia;NA;NA;NA;NA;NA
+zeale521;Animalia;NA;NA;NA;NA;NA
+zeale522;Animalia;NA;NA;NA;NA;NA
+zeale523;Animalia;NA;NA;NA;NA;NA
+zeale524;Animalia;NA;NA;NA;NA;NA
+zeale525;Animalia;NA;NA;NA;NA;NA
+zeale526;Animalia;NA;NA;NA;NA;NA
+zeale527;Animalia;NA;NA;NA;NA;NA
+zeale53;Animalia;NA;NA;NA;NA;NA
+zeale54;Animalia;NA;NA;NA;NA;NA
+zeale55;Animalia;Insecta;Orthoptera;Acrididae;NA;NA
+zeale56;Animalia;Arachnida;Araneae;NA;NA;NA
+zeale57;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale58;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale59;Animalia;Arachnida;NA;NA;NA;Arachnida sp. BOLD:ACM7119
+zeale6;Animalia;Arachnida;Sarcoptiformes;NA;NA;NA
+zeale60;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale61;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale62;Animalia;NA;NA;NA;NA;NA
+zeale63;Animalia;Insecta;NA;NA;NA;NA
+zeale64;Animalia;Insecta;Diptera;Cecidomyiidae;NA;NA
+zeale65;Animalia;Insecta;Diptera;Cecidomyiidae;NA;NA
+zeale66;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale67;Animalia;Insecta;Lepidoptera;Erebidae;Sphingomorpha;Sphingomorpha chlorea
+zeale68;Animalia;Insecta;Diptera;Phoridae;NA;NA
+zeale69;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale7;Animalia;Insecta;Diptera;NA;NA;NA
+zeale70;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale71;Animalia;Diplopoda;Spirostreptida;Spirostreptidae;Doratogonus;Doratogonus sp. GG-2003
+zeale72;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale73;Animalia;NA;NA;NA;NA;NA
+zeale74;Animalia;Insecta;NA;NA;NA;NA
+zeale75;Animalia;Chromadorea;Rhabditida;Aphelenchoididae;Bursaphelenchus;Bursaphelenchus mucronatus
+zeale76;Animalia;Insecta;NA;NA;NA;NA
+zeale77;Animalia;NA;NA;NA;NA;NA
+zeale78;Animalia;Insecta;Orthoptera;Acrididae;Schistocerca;NA
+zeale79;Animalia;Arachnida;Araneae;NA;NA;NA
+zeale8;Animalia;Insecta;Orthoptera;Gryllidae;Gryllus;Gryllus bimaculatus
+zeale80;Animalia;Chromadorea;Rhabditida;NA;NA;Rhabditida sp. 3059ed
+zeale81;Animalia;Bdelloidea;Philodinida;Philodinidae;Philodina;NA
+zeale82;Animalia;Arachnida;Trombidiformes;Eupodidae;NA;Eupodidae sp. BOLD:ACI9996
+zeale83;Animalia;Insecta;Diptera;NA;NA;NA
+zeale84;Animalia;NA;Saprolegniales;Saprolegniaceae;Brevilegnia;Brevilegnia variabilis
+zeale85;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale86;Animalia;NA;Longamoebia;Acanthamoebidae;Acanthamoeba;Acanthamoeba castellanii
+zeale87;Animalia;Insecta;Diptera;NA;NA;NA
+zeale88;Animalia;Insecta;Coleoptera;Scarabaeidae;Onthophagus;Onthophagus sp. 4 CWC-2007
+zeale89;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale9;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale90;Animalia;Insecta;NA;NA;NA;NA
+zeale91;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale92;Animalia;Insecta;NA;NA;NA;NA
+zeale93;Animalia;Insecta;Diptera;NA;NA;NA
+zeale94;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale95;Animalia;Bdelloidea;NA;NA;NA;NA
+zeale96;Animalia;NA;NA;NA;NA;NA
+zeale97;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale98;Animalia;Insecta;Lepidoptera;NA;NA;NA
+zeale99;Animalia;Bdelloidea;NA;NA;NA;NA
